@@ -1,6 +1,6 @@
 Package: callrtestthattravistest
 Version: 0.0.1
-Title: Dummy package testing callr from testthat on travis
+Title: Dummy Package Testing Callr from Testthat on Travis
 Author: Hannes Muehleisen [aut, cre]
 Maintainer: Hannes Muehleisen <hannes@cwi.nl>
 Description: See above
